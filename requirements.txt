@@ -1,0 +1,9 @@
+torch
+transformers
+accelerate
+trl
+peft
+bitsandbytes
+datasets==3.6.0
+pandas
+scikit-learn
